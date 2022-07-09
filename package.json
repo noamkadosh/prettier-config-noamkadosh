@@ -1,0 +1,22 @@
+{
+	"name": "prettier-config-noamkadosh",
+	"version": "1.0.0",
+	"description": "Prettier rules according to noamkadosh' personal preference",
+	"main": "index.json",
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/noamkadosh/prettier-config-noamkadosh/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/noamkadosh/prettier-config-noamkadosh"
+	},
+	"peerDependencies": {
+		"prettier": "*"
+	}
+}
