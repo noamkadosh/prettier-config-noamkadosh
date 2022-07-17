@@ -7,7 +7,7 @@
 		"prettier",
 		"prettier-config"
 	],
-	"author": "",
+	"author": "Noam Kadosh",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/noamkadosh/prettier-config-noamkadosh/issues"
