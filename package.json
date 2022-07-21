@@ -1,6 +1,6 @@
 {
 	"name": "prettier-config-noamkadosh",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Prettier rules according to noamkadosh' personal preference",
 	"main": "index.json",
 	"keywords": [
